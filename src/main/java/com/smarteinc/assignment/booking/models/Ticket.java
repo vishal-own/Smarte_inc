@@ -1,4 +1,4 @@
-package com.smarteinc.assignment.booking;
+package com.smarteinc.assignment.booking.models;
 
 import java.time.LocalDate;
 

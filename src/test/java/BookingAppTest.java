@@ -7,8 +7,8 @@ import org.junit.Test;
 import org.junit.rules.ExpectedException;
 
 import com.smarteinc.assignment.booking.BookingApp;
-import com.smarteinc.assignment.booking.Passenger;
-import com.smarteinc.assignment.booking.Ticket;
+import com.smarteinc.assignment.booking.models.Passenger;
+import com.smarteinc.assignment.booking.models.Ticket;
 
 public class BookingAppTest {
 	
